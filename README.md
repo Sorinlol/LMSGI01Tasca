@@ -26,7 +26,7 @@ Per a començar ens hem de enregistrar a la plana ***Web*** per tal de que ens d
 
 ###C: Un cop realitzada la tasca, envía l'enllaç del teu repositori.
 
-+ [Enllaç al meu ***Github**](https://github.com/Sorinlol/LMSGI01Tasca)
++ [Enllaç al meu ***Github***](https://github.com/Sorinlol/LMSGI01Tasca)
 
 
 ##*Links* emprats:
