@@ -18,7 +18,7 @@ cocinacss.css     | CSS
 cocinahtml.html   | HTML
 
 ~~~
-Tenguent en conte que hi ha que canviar la codificació dels arxius ja que per defecte es desan en Ansi ja que sinó pot ser que no s'obren correctament en segons quins programes.
+Hem de tenir en conte que hi ha que canviar la codificació dels arxius ja que per defecte es desan en Ansi ja que sinó pot ser que no s'obren correctament en segons quins programes.
 ~~~
 
 ###B: Crear un repositori ***GitHub***
