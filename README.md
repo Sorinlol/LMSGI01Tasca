@@ -21,8 +21,8 @@ cocinahtml.html   | HTML
 Tenguent en conte que hi ha que canviar la codificació dels arxius ja que per defecte es desan en Ansi ja que sinó pot ser que no s'obren correctament en segons quins programes.
 ~~~
 
-###B: Crear un repositori ***GitHub*
-Per a començar ens hem de enregistrar a la plana ***Web*** per tal de que ens deixi ***upload*tots i cada un dels ***files** correctament he editat l'arxiu *Readme.md* emprant el llenguatge **Markdown** posant en practica el conexeiments de lo llegit en práctica per a realitzar la descripció de la tasca.
+###B: Crear un repositori ***GitHub***
+Per a començar ens hem de enregistrar a la plana ***Web*** per tal de que ens deixi ***upload***tots i cada un dels ***files*** correctament he editat l'arxiu *Readme.md* emprant el llenguatge **Markdown** posant en practica el conexeiments de lo llegit en práctica per a realitzar la descripció de la tasca.
 
 ###C: Un cop realitzada la tasca, envía l'enllaç del teu repositori.
 
