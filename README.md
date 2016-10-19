@@ -9,7 +9,7 @@ Una vegada llegit tots els continguts de la Plataforma Virtual i els ***Links***
 Cream tots el arxius emprant el  ***Notepad*** creant el arxius amb text pla. Canviam la extensió de cada un dels ***files*** i comprovant que es pot obrir el programa corresponent.
 
 
-Nombre del archivo| Tipo de archivo
+Nom de l'arxiu    | Tipus d'arxiu
 :-----------------| :-------------
 ArchivoRTF.rtf    | RTF
 ArchivoPS.ps      | PS
@@ -22,7 +22,7 @@ Tenguent en conte que hi ha que canviar la codificació dels arxius ja que per d
 ~~~
 
 ###B: Crear un repositori ***GitHub***
-Per a començar ens hem de enregistrar a la plana ***Web*** per tal de que ens deixi ***upload***tots i cada un dels ***files*** correctament he editat l'arxiu *Readme.md* emprant el llenguatge **Markdown** posant en practica el conexeiments de lo llegit en práctica per a realitzar la descripció de la tasca.
+Per a començar ens hem de enregistrar a la plana ***Web*** per tal de que ens deixi ***upload***tots i cada un dels ***files*** correctament una vegada s'han poujat, procdedim a editar l'arxiu *Readme.md* emprant el llenguatge **Markdown** posant en practica el conexeiments de lo llegit en práctica per a realitzar la descripció de la tasca.
 
 ###C: Un cop realitzada la tasca, envía l'enllaç del teu repositori.
 
