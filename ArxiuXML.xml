@@ -1,7 +1,7 @@
 ﻿
 <?xml version="1.0" encoding="UTF-8"?>
 <Biblioteca>
-  <capçalera>Indexació de Llibres per autor</capçalera>
+  <cap>Indexació de Llibres per autor</cap>
     <Autor>
      <nom>John Ronald</nom>
      <llinatges>Reuel Tolkien</llinatges>
