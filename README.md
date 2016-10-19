@@ -1,5 +1,4 @@
 # LMSGI01Tasca
-# LMSGI01Tasca
 
 Una vegada llegit tots els continguts de la Plataforma Virtual i els **Links** començam la tasca.
 
@@ -27,6 +26,7 @@ Per a començar ens hem de enregistrar a la plana **Web** per tal de que ens dei
 
 ###C: Un cop realitzada la tasca, envía l'enllaç del teu repositori.
 
++https://github.com/Sorinlol/LMSGI01Tasca
 
 
 ##*Links* emprats:
